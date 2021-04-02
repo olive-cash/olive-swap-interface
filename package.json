@@ -1,6 +1,6 @@
 {
-  "name": "@pancakeswap/interface",
-  "description": "Pancakeswap Interface",
+  "name": "olive-swap",
+  "description": "OliveSwap Interface",
   "homepage": ".",
   "private": true,
   "dependencies": {
