@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@pancakeswap-libs/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@olive-dev/avax-sdk'
 import React from 'react'
 import { Button, Text } from '@olive-dev/uikit'
 import { TranslateString } from 'utils/translateTextHelpers'

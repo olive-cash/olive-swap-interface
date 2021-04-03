@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap-libs/sdk'
+import { Token } from '@olive-dev/avax-sdk'
 import { transparentize } from 'polished'
 import { Button, Text } from '@olive-dev/uikit'
 import React, { useCallback, useMemo, useState } from 'react'

@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@pancakeswap-libs/sdk'
+import { Currency, Pair } from '@olive-dev/avax-sdk'
 import { Button, ChevronDownIcon, Text } from '@olive-dev/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

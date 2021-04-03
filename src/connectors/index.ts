@@ -25,11 +25,12 @@ export function getNetworkLibrary(): Web3Provider {
 }
 
 export const injected = new InjectedConnector({
-  supportedChainIds: [56, 97],
+  // supportedChainIds: [56, 97],
+  supportedChainIds: [43114, 97],
 })
 
-export const bscConnector = new BscConnector({ supportedChainIds: [56] })
-
+// export const bscConnector = new BscConnector({ supportedChainIds: [56] })
+export const bscConnector = new BscConnector({ supportedChainIds: [43114] })
 // mainnet only
 export const walletconnect = new WalletConnectConnector({
   rpc: { [NETWORK_CHAIN_ID]: NETWORK_URL },

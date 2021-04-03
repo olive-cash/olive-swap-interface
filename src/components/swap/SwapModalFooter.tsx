@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { Trade, TradeType } from '@olive-dev/avax-sdk'
 import React, { useMemo, useState } from 'react'
 import { Text, Button } from '@olive-dev/uikit'
 import { Repeat } from 'react-feather'

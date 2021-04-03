@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@pancakeswap-libs/sdk'
+import { CurrencyAmount, ETHER, JSBI } from '@olive-dev/avax-sdk'
 import { MIN_ETH } from '../constants'
 
 /**

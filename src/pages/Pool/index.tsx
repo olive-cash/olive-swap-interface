@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Pair } from '@pancakeswap-libs/sdk'
+import { Pair } from '@olive-dev/avax-sdk'
 import { Button, CardBody, Text } from '@olive-dev/uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { Trade, TradeType } from '@olive-dev/avax-sdk'
 import { Card, CardBody, Text } from '@olive-dev/uikit'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'

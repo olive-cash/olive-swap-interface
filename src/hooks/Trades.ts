@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from '@pancakeswap-libs/sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from '@olive-dev/avax-sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

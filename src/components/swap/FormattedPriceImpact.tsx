@@ -1,4 +1,4 @@
-import { Percent } from '@pancakeswap-libs/sdk'
+import { Percent } from '@olive-dev/avax-sdk'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'
