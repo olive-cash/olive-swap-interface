@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@olive-dev/avax-sdk'
 
-export const ROUTER_ADDRESS = '0x02b022310F4570e421DB28C283470BCc83f86A12'
+export const ROUTER_ADDRESS = '0x0c45FB63001b56a21e29c7dcc1727bfDA273a368'
 
 // a list of tokens by chain
 type ChainTokenList = {
