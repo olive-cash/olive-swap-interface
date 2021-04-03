@@ -1,0 +1,62 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://olive.cash/olive.png",
+  "keywords": ["Olive", "default"],
+  "tokens": [
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "OLIVE",
+      "logoURI": "https://olive.cash/olive.png",
+      "name": "OliveCash",
+      "address": "0x617724974218A18769020A70162165A539c07E8a"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "PNG",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+      "name": "PNG",
+      "address": "0x60781C2586D68229fde47564546784ab3fACA982"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
+      "name": "SushiToken",
+      "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+      "name": "Wrapped AVAX",
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+      "name": "Ether",
+      "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
+      "name": "Wrapped BTC",
+      "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB"
+    }
+  ]
+}

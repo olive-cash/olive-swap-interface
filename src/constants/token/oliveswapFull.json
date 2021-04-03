@@ -2953,14 +2953,6 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png",
       "name": "Maker",
       "address": "0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620"
-    },
-    {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-      "chainId": 43114,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     }
   ]
 }
