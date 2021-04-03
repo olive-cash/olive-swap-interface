@@ -2095,10 +2095,10 @@
     mkdirp "^1.0.4"
     rimraf "^2.7.1"
 
-"@olive-dev/uikit@^0.13.22":
-  version "0.13.22"
-  resolved "https://registry.npmjs.org/@olive-dev/uikit/-/uikit-0.13.22.tgz"
-  integrity sha512-8wFlxHKt9SIFmAs8ytd9wpAfQD0OP6TsSPMjOi2Y6eNMVcoayYDDZQc3cZXpiH+hC1EnZxymx0MIYWlDt5umXw==
+"@olive-dev/uikit@^0.13.24":
+  version "0.13.24"
+  resolved "https://registry.yarnpkg.com/@olive-dev/uikit/-/uikit-0.13.24.tgz#6e446a93240e8e466251b01e07b77bd01e328da3"
+  integrity sha512-/oGGOZK/t3XoD+1XZ0WJNTSeYSEMshQNmoHR44jHPeygaaNDcyj+GlV8cBHi1+m2pdVKLnzON3yX7WhE/5kg3A==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

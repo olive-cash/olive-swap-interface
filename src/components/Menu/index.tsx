@@ -30,6 +30,7 @@ const Menu: React.FC = (props) => {
       langs={allLanguages}
       setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd}
+      priceLink="https://cchain.explorer.avax.network/address/0x617724974218A18769020A70162165A539c07E8a"
       profile={profile}
       {...props}
     />
