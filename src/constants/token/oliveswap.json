@@ -51,7 +51,7 @@
       "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15"
     },
     {
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 43114,
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",

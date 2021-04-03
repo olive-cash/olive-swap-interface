@@ -90,6 +90,8 @@ const BAD_RECIPIENT_ADDRESSES: string[] = [
   '0xBCfCcbde45cE874adCB698cC183deBcF17952812', // v2 factory
   '0xf164fC0Ec4E93095b804a4795bBe1e041497b92a', // v2 router 01
   '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F', // v2 router 02
+  '0x4Fe4D8b01A56706Bc6CaD26E8C59D0C7169976b3', // olive factory
+  '0x02b022310F4570e421DB28C283470BCc83f86A12', // olive router
 ]
 
 /**

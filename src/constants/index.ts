@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@olive-dev/avax-sdk'
 
-export const ROUTER_ADDRESS = '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F'
+export const ROUTER_ADDRESS = '0x02b022310F4570e421DB28C283470BCc83f86A12'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -9,13 +9,13 @@ type ChainTokenList = {
 
 export const DAI = new Token(ChainId.MAINNET, '0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a', 18, 'DAI', 'Dai Stablecoin')
 export const BUSD = new Token(ChainId.MAINNET, '0xaEb044650278731Ef3DC244692AB9F64C78FfaEA', 18, 'BUSD', 'Binance USD')
-export const USDT = new Token(ChainId.MAINNET, '0xde3A24028580884448a5397872046a019649b084', 18, 'USDT', 'Tether USD')
+export const USDT = new Token(ChainId.MAINNET, '0xde3A24028580884448a5397872046a019649b084', 6, 'USDT', 'Tether USD')
 export const ETH = new Token(
   ChainId.MAINNET,
   '0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15',
   18,
   'ETH',
-  'Binance-Peg Ethereum Token'
+  'Ether'
 )
 
 const WETH_ONLY: ChainTokenList = {
