@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://awax.olive.cash/farms',
+    href: 'https://avax.olive.cash',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://awax.olive.cash/farms',
+    href: 'https://avax.olive.cash/farms',
   },
   {
     label: 'Pools',
     icon: 'CaveIcon',
-    href: 'https://awax.olive.cash/pools',
+    href: 'https://avax.olive.cash/pools',
   },
   {
     label: 'More',

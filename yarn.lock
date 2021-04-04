@@ -2579,10 +2579,10 @@
     mkdirp "^1.0.4"
     rimraf "^2.7.1"
 
-"@olive-dev/avax-sdk@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@olive-dev/avax-sdk/-/avax-sdk-1.0.2.tgz#22fa13243f7e64d3b33d4e1b05fb82536b837289"
-  integrity sha512-3YG2wbBJMCapdJAg5Ot5khSqA+Z7rWjniLnxBuYTvH/E2hy8N1YV9S7KYsO8X8WMRvpX4NYm5/hLZPdLpf4PwQ==
+"@olive-dev/avax-sdk@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@olive-dev/avax-sdk/-/avax-sdk-1.0.3.tgz#6fa8ffba5d4925d0a334236f382049010699a1f0"
+  integrity sha512-0qxV1agWpmCfAS/j5V84p3KWSXhH/ZBddgjXnjG/437rH2zught8XqX78BQPs+sZYMR8LtNRPj2lYOtd/sf+6Q==
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"
