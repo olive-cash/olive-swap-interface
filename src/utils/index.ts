@@ -23,7 +23,7 @@ const BSCSCAN_PREFIXES: { [chainId in ChainId]: string } = {
 }
 
 export function getBscScanLink(chainId: ChainId, data: string, type: 'transaction' | 'token' | 'address'): string {
-  const prefix = `https://${BSCSCAN_PREFIXES[chainId] || BSCSCAN_PREFIXES[ChainId.MAINNET]}bscscan.com`
+  const prefix = `https://${BSCSCAN_PREFIXES[chainId] || BSCSCAN_PREFIXES[ChainId.MAINNET]}cchain.explorer.avax.network`
 
   switch (type) {
     case 'transaction': {

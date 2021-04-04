@@ -2443,7 +2443,7 @@
       "address": "0xbE53F019a8786227E3D258A47a0D96BCf24A09A6"
     },
     {
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 43114,
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",

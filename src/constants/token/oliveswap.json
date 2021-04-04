@@ -57,6 +57,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
       "name": "Wrapped BTC",
       "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB"
+    },
+    {
+      "decimals": 6,
+      "chainId": 43114,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
+      "name": "Tether USD",
+      "address": "0xde3A24028580884448a5397872046a019649b084"
     }
   ]
 }
