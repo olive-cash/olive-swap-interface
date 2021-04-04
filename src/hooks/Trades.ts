@@ -43,7 +43,7 @@ function useAllCommonPairs(currencyA?: Currency, currencyB?: Currency): Pair[] {
             .filter((tokens): tokens is [Token, Token] => Boolean(tokens[0] && tokens[1]))
             .filter(([t0, t1]) => t0.address !== t1.address)
             // This filter will remove all the pairs that are not supported by the CUSTOM_BASES settings
-            // This option is currently not used on Pancake swap
+            // This option is currently not used on OliveSwap swap
             .filter(([t0, t1]) => {
               if (!chainId) return true
               const customBases = CUSTOM_BASES[chainId]
