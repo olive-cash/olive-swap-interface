@@ -4,7 +4,8 @@ import useGetPriceData from './useGetPriceData'
 const useGetDocumentTitlePrice = () => {
   const priceData = useGetPriceData()
 
-  const cakePriceUsd = priceData ? parseFloat(priceData.prices.OLIVE) : 0
+  // const cakePriceUsd = priceData ? parseFloat(priceData.prices.OLIVE) : 0
+  const cakePriceUsd = Number(0);
 
   const cakePriceUsdString =
     Number.isNaN(cakePriceUsd) || cakePriceUsd === 0
