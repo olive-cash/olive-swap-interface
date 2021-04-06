@@ -30,7 +30,7 @@ export function getBscScanLink(chainId: ChainId, data: string, type: 'transactio
       return `${prefix}/tx/${data}`
     }
     case 'token': {
-      return `${prefix}/token/${data}`
+      return `${prefix}/address/${data}`
     }
     case 'address':
     default: {
