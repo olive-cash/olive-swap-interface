@@ -8,7 +8,10 @@
   },
   "tags": {},
   "logoURI": "https://olive.cash/olive.png",
-  "keywords": ["Olive", "default"],
+  "keywords": [
+    "Olive",
+    "default"
+  ],
   "tokens": [
     {
       "decimals": 18,
@@ -65,6 +68,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
       "name": "Tether USD",
       "address": "0xde3A24028580884448a5397872046a019649b084"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
+      "name": "Dai Stablecoin",
+      "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a"
     }
   ]
 }
