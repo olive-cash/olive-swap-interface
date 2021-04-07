@@ -76,6 +76,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
       "name": "Dai Stablecoin",
       "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "SNOB",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
+      "name": "Snowball",
+      "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50"
     }
   ]
 }
