@@ -256,10 +256,12 @@ const Swap = () => {
     [onCurrencySelection, checkForSyrup]
   )
 
+  const isOlive = urlLoadedTokens.length === 1 && urlLoadedTokens[0].address === '0x617724974218A18769020A70162165A539c07E8a'
+
   return (
     <>
       <TokenWarningModal
-        isOpen={urlLoadedTokens.length > 0 && !dismissTokenWarning}
+        isOpen={urlLoadedTokens.length > 0 && !dismissTokenWarning && !isOlive}
         tokens={urlLoadedTokens}
         onConfirm={handleConfirmTokenWarning}
       />
