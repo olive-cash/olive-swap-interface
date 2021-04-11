@@ -36,8 +36,23 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'OliveCash Token',
-        href: 'https://info.olive.cash/#/token/0x617724974218a18769020a70162165a539c07e8a',
+        label: 'Overview',
+        href: 'https://info.olive.cash',
+        external: true,
+      },
+      {
+        label: 'Tokens',
+        href: 'https://info.olive.cash/#/tokens',
+        external: true,
+      },
+      {
+        label: 'Pairs',
+        href: 'https://info.olive.cash/#/pairs',
+        external: true,
+      },
+      {
+        label: 'Accounts',
+        href: 'https://info.olive.cash/#/accounts',
         external: true,
       },
     ],
