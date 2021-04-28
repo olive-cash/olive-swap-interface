@@ -100,6 +100,14 @@
       "logoURI": "https://raw.githubusercontent.com/elkfinance/bridge-tokens/main/avalanche-tokens/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
       "name": "Elk",
       "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "LYD",
+      "logoURI": "https://avax.olive.cash/images/tokens/lyd.png",
+      "name": "LydToken",
+      "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084"
     }
   ]
 }
