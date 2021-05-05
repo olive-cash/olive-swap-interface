@@ -108,6 +108,14 @@
       "logoURI": "https://avax.olive.cash/images/tokens/lyd.png",
       "name": "LydToken",
       "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "GDL",
+      "logoURI": "https://avax.olive.cash/images/tokens/gdl.png",
+      "name": "Gondola",
+      "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142"
     }
   ]
 }
