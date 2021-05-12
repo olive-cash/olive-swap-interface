@@ -116,6 +116,38 @@
       "logoURI": "https://avax.olive.cash/images/tokens/gdl.png",
       "name": "Gondola",
       "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "BIRD",
+      "logoURI": "https://avax.olive.cash/images/tokens/bird.png",
+      "name": "BirdToken",
+      "address": "0x4480B4DdFb15fE6518817ef024D8B493afF2Db54"
+    },
+    {
+      "decimals": 9,
+      "chainId": 43114,
+      "symbol": "SFI",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537/logo.png",
+      "name": "sled.finance",
+      "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537"
+    },
+    {
+      "decimals": 9,
+      "chainId": 43114,
+      "symbol": "SL3",
+      "logoURI": "https://avax.olive.cash/images/tokens/sl3.png",
+      "name": "SL3",
+      "address": "0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "MKC",
+      "logoURI": "https://avax.olive.cash/images/tokens/mkc.png",
+      "name": "MonkeyCoin",
+      "address": "0xDcEA074715F990fB4a1737e7A8aD33dF804A88F1"
     }
   ]
 }
