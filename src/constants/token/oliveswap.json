@@ -148,6 +148,22 @@
       "logoURI": "https://avax.olive.cash/images/tokens/mkc.png",
       "name": "MonkeyCoin",
       "address": "0xDcEA074715F990fB4a1737e7A8aD33dF804A88F1"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "HUSKY",
+      "logoURI": "https://avax.olive.cash/images/tokens/husky.png",
+      "name": "Husky",
+      "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "ZERO",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233/logo.png",
+      "name": "Zero.Exchange Token",
+      "address": "0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233"
     }
   ]
 }
