@@ -164,6 +164,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233/logo.png",
       "name": "Zero.Exchange Token",
       "address": "0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "COM",
+      "logoURI": "https://avax.olive.cash/images/tokens/com.png",
+      "name": "COMPLUS",
+      "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad"
     }
   ]
 }
