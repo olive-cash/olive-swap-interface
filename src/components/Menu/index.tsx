@@ -4,19 +4,18 @@ import { useWeb3React } from '@web3-react/core'
 import { allLanguages } from 'constants/localisation/languageCodes'
 import { LanguageContext } from 'hooks/LanguageContext'
 import useTheme from 'hooks/useTheme'
-import useGetPriceData from 'hooks/useGetPriceData'
 import useGetLocalProfile from 'hooks/useGetLocalProfile'
 import useAuth from 'hooks/useAuth'
 import links from './config'
+import useGetOlivePrice from '../../hooks/useGetOlivePrice'
 
 const Menu: React.FC = (props) => {
   const { account } = useWeb3React()
   const { login, logout } = useAuth()
   const { selectedLanguage, setSelectedLanguage } = useContext(LanguageContext)
   const { isDark, toggleTheme } = useTheme()
-  const priceData = useGetPriceData()
-  let cakePriceUsd = priceData ? Number(priceData.prices.OLIVE) : undefined
-  cakePriceUsd = undefined
+  const olivePrice = useGetOlivePrice()
+  const cakePriceUsd = olivePrice ? parseFloat(olivePrice?.toFixed(6)) : 0
   const profile = useGetLocalProfile()
 
   return (

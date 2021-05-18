@@ -1,11 +1,9 @@
 import { useEffect } from 'react'
-import useGetPriceData from './useGetPriceData'
+import useGetOlivePrice from './useGetOlivePrice'
 
 const useGetDocumentTitlePrice = () => {
-  const priceData = useGetPriceData()
-
-  let cakePriceUsd = priceData ? parseFloat(priceData.prices.OLIVE) : 0
-  cakePriceUsd = Number(0);
+  const olivePrice = useGetOlivePrice();
+  const cakePriceUsd = olivePrice ? parseFloat(olivePrice?.toFixed(6)) : 0
 
   const cakePriceUsdString =
     Number.isNaN(cakePriceUsd) || cakePriceUsd === 0
