@@ -79,7 +79,9 @@
     "start-server-and-test": "^1.11.0"
   },
   "resolutions": {
-    "@walletconnect/web3-provider": "1.1.1-alpha.0"
+    "@walletconnect/web3-provider": "1.1.1-alpha.0",
+    "@zondax/filecoin-signing-tools": "0.15.0",
+    "websocket": "1.0.31"
   },
   "scripts": {
     "start": "react-scripts start",
