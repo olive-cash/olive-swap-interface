@@ -161,9 +161,9 @@
       "decimals": 18,
       "chainId": 43114,
       "symbol": "ZERO",
-      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233/logo.png",
+      "logoURI": "https://avax.olive.cash/images/tokens/zero.png",
       "name": "Zero.Exchange Token",
-      "address": "0x9Bdd302e506C3F6c23c085C37789cce6d3C1a233"
+      "address": "0x008e26068b3eb40b443d3ea88c1ff99b789c10f7"
     },
     {
       "decimals": 18,
