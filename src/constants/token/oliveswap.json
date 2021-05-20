@@ -172,6 +172,14 @@
       "logoURI": "https://avax.olive.cash/images/tokens/com.png",
       "name": "COMPLUS",
       "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad"
+    },
+    {
+      "decimals": 9,
+      "chainId": 43114,
+      "symbol": "AKBASH",
+      "logoURI": "https://avax.olive.cash/images/tokens/akbash.png",
+      "name": "AKBASH",
+      "address": "0x95d16B76A4F29dBdb2D9Ea2c4D0a31e2a1D830B3"
     }
   ]
 }
