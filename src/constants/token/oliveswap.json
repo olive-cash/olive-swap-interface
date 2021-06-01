@@ -180,6 +180,14 @@
       "logoURI": "https://avax.olive.cash/images/tokens/akbash.png",
       "name": "AKBASH",
       "address": "0x95d16B76A4F29dBdb2D9Ea2c4D0a31e2a1D830B3"
+    },
+    {
+      "decimals": 8,
+      "chainId": 43114,
+      "symbol": "NEKO",
+      "logoURI": "https://avax.olive.cash/images/tokens/neko.png",
+      "name": "Lucky Cat",
+      "address": "0xD9702F5E3b0eb7452967CB82529776D672bdC03F"
     }
   ]
 }
