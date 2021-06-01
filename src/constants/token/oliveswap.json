@@ -188,8 +188,7 @@
       "logoURI": "https://avax.olive.cash/images/tokens/neko.png",
       "name": "Lucky Cat",
       "address": "0xD9702F5E3b0eb7452967CB82529776D672bdC03F"
-    }
-  ,
+    },
     {
       "decimals": 18,
       "chainId": 43114,
@@ -197,6 +196,15 @@
       "logoURI": "https://avax.olive.cash/images/tokens/ave.png",
       "name": "Avaware",
       "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "XAVA",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
+      "name": "XavaToken",
+      "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4"
     }
+
   ]
 }
