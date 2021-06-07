@@ -212,6 +212,14 @@
       "logoURI": "https://avax.olive.cash/images/tokens/snowleopard.png",
       "name": "Snowleopard",
       "address": "0xcf98695AF7eACd36E036DedB6E192C1c9C7E66d6"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "RUGPULL",
+      "logoURI": "https://avax.olive.cash/images/tokens/rugpull.png",
+      "name": "RUGPULL",
+      "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289"
     }
   ]
 }
