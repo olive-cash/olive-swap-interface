@@ -204,7 +204,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
       "name": "XavaToken",
       "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4"
+    },
+    {
+      "decimals": 9,
+      "chainId": 43114,
+      "symbol": "Snowleopard",
+      "logoURI": "https://avax.olive.cash/images/tokens/snowleopard.png",
+      "name": "Snowleopard",
+      "address": "0xcf98695AF7eACd36E036DedB6E192C1c9C7E66d6"
     }
-
   ]
 }
