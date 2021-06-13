@@ -220,6 +220,14 @@
       "logoURI": "https://avax.olive.cash/images/tokens/rugpull.png",
       "name": "RUGPULL",
       "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "SHERPA",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+      "name": "Sherpa",
+      "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6"
     }
   ]
 }
