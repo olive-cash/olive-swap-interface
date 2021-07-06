@@ -228,6 +228,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
       "name": "Sherpa",
       "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6"
+    },
+    {
+      "decimals": 9,
+      "chainId": 43114,
+      "symbol": "LAIKA",
+      "logoURI": "https://avax.olive.cash/images/tokens/laika.png",
+      "name": "LAIKA",
+      "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4"
     }
   ]
 }
