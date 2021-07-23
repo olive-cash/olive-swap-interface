@@ -236,6 +236,14 @@
       "logoURI": "https://avax.olive.cash/images/tokens/laika.png",
       "name": "LAIKA",
       "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "BUSD",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+      "name": "BUSD",
+      "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA"
     }
   ]
 }
