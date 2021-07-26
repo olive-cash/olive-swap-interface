@@ -244,6 +244,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
       "name": "BUSD",
       "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "CYCLE",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
+      "name": "CYCLE",
+      "address": "0x81440C939f2C1E34fc7048E518a637205A632a74"
     }
   ]
 }
