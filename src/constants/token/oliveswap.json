@@ -252,6 +252,14 @@
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
       "name": "CYCLE",
       "address": "0x81440C939f2C1E34fc7048E518a637205A632a74"
+    },
+    {
+      "decimals": 18,
+      "chainId": 43114,
+      "symbol": "YAK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+      "name": "YAK",
+      "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7"
     }
   ]
 }
