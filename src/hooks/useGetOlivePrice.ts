@@ -1,7 +1,7 @@
 import { ChainId, Token } from '@olive-dev/avax-sdk'
 import { useTotalSupply } from '../data/TotalSupply'
 
-const priceContract = '0xc6B19843d84e0728BF1f09f582aE0cD19906019B'
+const priceContract = '0x61fa59D648f66f43119eA8Ee42e4F9fD680e5459'
 
 const useGetOlivePrice = () => {
   return useTotalSupply(new Token(ChainId.MAINNET, priceContract, 18, '', ''))
